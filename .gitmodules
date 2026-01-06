@@ -1,0 +1,9 @@
+[submodule "aoc2023-python"]
+	path = aoc2023-python
+	url = git@github.com:ixu42/aoc2023-python.git
+[submodule "aoc2024-cpp"]
+	path = aoc2024-cpp
+	url = git@github.com:ixu42/aoc2024-cpp.git
+[submodule "aoc2025-go"]
+	path = aoc2025-go
+	url = git@github.com:ixu42/aoc2025-go.git
